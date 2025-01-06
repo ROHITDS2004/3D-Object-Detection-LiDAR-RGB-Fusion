@@ -192,5 +192,3 @@ GitHub: [ROHITDS2004](https://github.com/ROHITDS2004)
 ---
 
 Thank you for using the **3D Object Detection & Localization using LiDAR and RGB Fusion** project! 🚀
-```
----
