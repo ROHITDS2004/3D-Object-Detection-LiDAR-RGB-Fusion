@@ -186,7 +186,7 @@ Special thanks to these amazing tools and frameworks:
 If you have any questions or suggestions, feel free to reach out to me!
 
 **Rohit DS**  
-Email: rohitds2004@example.com  
+Email: rohitdsudhir@gmail.com  
 GitHub: [ROHITDS2004](https://github.com/ROHITDS2004)  
 
 ---
